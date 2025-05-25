@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100vh;
+}
+main section{
+    overflow-x: hidden ;
+
+}
+
+html {
+    user-select: none;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'arial', sans-serif;
+    font-weight: 400;
+    background: #353534;
+
+}

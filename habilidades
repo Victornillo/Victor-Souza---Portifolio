@@ -1,0 +1,269 @@
+   <section id="habilidades" class="habilidades-section">
+      <div class="container pb-5">
+
+        <h6 style="padding-top: 15px; font-size: 70px;" class="text-center" data-anime="right" id="knowledge">
+        </h6>
+        <h5 data-anime="right" class="text-center" id="schedule">Linguagem de Programação</h5>
+        <br>
+
+       
+        <!-- Menu de abas -->
+        <div class="tab-menu text-center mt-4">
+          <button class="tab-btn active" data-tab="programacao">Programação</button>
+          <button class="tab-btn" data-tab="softwares">Softwares</button>
+          <button class="tab-btn" data-tab="linguas" id="languages">Línguas</button>
+        </div>
+
+        <!-- Conteúdo das abas -->
+        <div class="tab-content mt-4">
+
+          <!-- Página 1: Programação -->
+          <div class="tab-panel active" id="programacao">
+            <!-- Aqui você cola o conteúdo que já tem (HTML, CSS, JS, SQL...) -->
+            <div class="container pb-5">
+
+              <h6 style="padding-top: 15px; font-size: 70px;" class="text-center" data-anime="right" id="knowledge">
+              </h6>
+              <h5 data-anime="right" class="text-center" id="schedule">Linguagem de Programação</h5>
+              <br>
+              <div class="row">
+
+                <div class="col-md-6" data-anime="right">
+                  <h2>Front-end</h2>
+
+                
+                  
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/html.png" alt="HTML" class="html-image">
+                      <h5 class="html-text">HTML</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="85">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <br>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/css-3.png" alt="CSS" class="html-image">
+                      <h5 class="html-text">CSS</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="55">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <br>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/js.png" alt="JS" class="html-image">
+                      <h5 class="html-text">JavaScript</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="65">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+
+                <div id="partTwo" class="col-md-6" data-anime="right">
+                  <h2>Back-end</h2>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/java.png" alt="Java" class="html-image">
+                      <h5 class="html-text">JAVA</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="25">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <br>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/python.png" alt="Python" class="html-image">
+                      <h5 class="html-text">PYTHON</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="15">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <br>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/servidor-sql.png" alt="SQL" class="html-image">
+                      <h5 class="html-text">SQL</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="18">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+
+          </div>
+
+          <!-- Página 2: Softwares -->
+          <div class="tab-panel" id="softwares">
+            <div class="container pb-5">
+
+              <div class="skill-circle" data-percent="85">
+                <svg class="progress-ring" width="120" height="120">
+                    <circle class="progress-ring__circle" stroke="cyan" stroke-width="8" fill="transparent" r="52" cx="60" cy="60"/>
+                </svg>
+                <div class="skill-label">
+                    <img src="html.png" alt="HTML" width="40" height="40" />
+                    <div class="skill-percent">85</div>
+                    <div class="skill-name">HTML</div>
+                </div>
+            </div>
+
+              
+              <div class="row">
+
+                <div class="col-md-6" data-anime="right">
+                  <h2>Front-end</h2>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/photoshop.png" alt="PhotoShop" class="html-image">
+                      <h5 class="html-text">PhotoShop</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="85">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <br>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/visual-studio-code.png" alt="CSS" class="html-image">
+                      <h5 class="html-text">Visual Studio Code</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="55">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <br>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/js.png" alt="JS" class="html-image">
+                      <h5 class="html-text">JavaScript</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="65">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+
+                <div id="partTwo" class="col-md-6" data-anime="right">
+                  <h2>Back-end</h2>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/java.png" alt="Java" class="html-image">
+                      <h5 class="html-text">JAVA</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="25">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <br>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/python.png" alt="Python" class="html-image">
+                      <h5 class="html-text">PYTHON</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="15">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                  <br>
+
+                  <div class="skill-item">
+                    <div class="html-container">
+                      <img src="/imagens/servidor-sql.png" alt="SQL" class="html-image">
+                      <h5 class="html-text">SQL</h5>
+                    </div>
+                    <br>
+                    <div class="progress" data-progress="18">
+                      <div class="progress-bar">
+                        <span class="progress-text">0%</span>
+                      </div>
+                    </div>
+                  </div>
+
+                </div>
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+
+        <!-- Página 3: Línguas -->
+        <div class="tab-panel" id="linguas">
+          <h4>Idiomas</h4>
+          <ul>
+            <li>Português - Nativo</li>
+            <li>Inglês - Intermediário</li>
+            <li>Espanhol - Básico</li>
+          </ul>
+        </div>
+
+      </div>
+
+      </div>
+      <br>
+    </section>
