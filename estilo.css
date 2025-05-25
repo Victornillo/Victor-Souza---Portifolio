@@ -988,7 +988,7 @@ a:hover {
 
 .home {
     height: 100%;
-    background-image: url(/imagens/fundo.png);
+    background-image: url(imagens/fundo.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
