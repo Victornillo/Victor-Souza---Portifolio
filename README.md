@@ -6,7 +6,7 @@ Este projeto foi desenvolvido com o objetivo de apresentar minhas habilidades, e
 ## 🌐 Acesse o site
 
 Você pode visualizar o site online através do GitHub Pages:  
-➡️ [https://seu-usuario.github.io/seu-repo](https://seu-usuario.github.io/seu-repo) *(atualize com seu link real)*
+➡️ https://victornillo.github.io/Victor-Souza---Portifolio/
 
 ## 🚀 Tecnologias utilizadas
 
