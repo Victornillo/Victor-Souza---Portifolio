@@ -23,7 +23,8 @@ document.addEventListener("DOMContentLoaded", () => {
         "all",
         "linktree",
         "pinterest",
-        "todo"
+        "todo",
+        "eu2"
     ];
 
     const languageSelector = document.getElementById("languageSelector");

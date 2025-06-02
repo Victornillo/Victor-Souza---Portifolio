@@ -22,7 +22,8 @@
         "all":"Tudo",
         "linktree":"linktree com minhas redes sociais",
         "pinterest":"Meu site de imagens inspirado no pinterest",
-        "todo":"Minha versão do To-do list "
+        "todo":"Minha versão do To-do list ",
+        "eu2":"Homem negro sorrindo apoiando a mão na cabeça"
     },
     "en": {
         "about": "About",
@@ -47,6 +48,7 @@
         "all":"All",
         "linktree":"linktree with my social networks",
         "pinterest":"My pinterest inspired image site",
-        "todo":"My version of the To-do list "
+        "todo":"My version of the To-do list ",
+        "eu2":"Black man smiling with hand on head"
     }
 }
